@@ -11,8 +11,8 @@
   DTS:LocaleID="3082"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="74"
-  DTS:VersionGUID="{553E1860-E67F-42D2-AF96-DD74269BA3EF}">
+  DTS:VersionBuild="75"
+  DTS:VersionGUID="{F436BBB1-98A2-4BED-9810-3162DD972F3B}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -3022,9 +3022,9 @@ WITH RESULT SETS
           TopLeft="293.60604486464,287.030299699186" />
         <ContainerLayout
           HeaderHeight="43.2"
-          IsExpanded="True"
+          IsExpanded="False"
           PanelSize="771.2,384"
-          Size="771.2,427.2"
+          Size="771.2,43.2"
           Id="Package\Contenedor de secuencias PRODUCTO"
           TopLeft="52.2667119109868,45.2608221960844" />
         <NodeLayout
